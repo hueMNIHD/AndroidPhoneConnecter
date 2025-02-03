@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\PhoneConnecter\bin\Release\net8.0-windows\PhoneConnecter.exe
+C:\Users\Administrator\source\repos\PhoneConnecter\bin\Release\net8.0-windows\PhoneConnecter.deps.json
+C:\Users\Administrator\source\repos\PhoneConnecter\bin\Release\net8.0-windows\PhoneConnecter.runtimeconfig.json
+C:\Users\Administrator\source\repos\PhoneConnecter\bin\Release\net8.0-windows\PhoneConnecter.dll
+C:\Users\Administrator\source\repos\PhoneConnecter\bin\Release\net8.0-windows\PhoneConnecter.pdb
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.Phone.resources
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.dll
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\refint\PhoneConnecter.dll
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.pdb
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\PhoneConnecter.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PhoneConnecter\obj\Release\net8.0-windows\ref\PhoneConnecter.dll
